@@ -8,7 +8,7 @@ This connector uses environment variables to connect to the database. You *need*
 
 Simple table example:
 ```python
-from mysqlx-connector import Table
+from mysqlx_connector import Table
 
 class CityTable(Table):
 	
